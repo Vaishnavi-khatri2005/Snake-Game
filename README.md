@@ -1,7 +1,7 @@
 # Snake-Game
 A simple and fun browser-based Snake Game built using HTML, CSS, and JavaScript.
 Control the snake, eat the food, grow longer, and try to achieve the highest score before hitting the wall or yourself.
-🎮 Gameplay
+<br>🎮 Gameplay</br>
 Use Arrow Keys to move the snake.
 Eat the red food to grow.
 Game ends if the snake:
