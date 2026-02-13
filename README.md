@@ -7,10 +7,10 @@ Eat the red food to grow.
 Game ends if the snake:
 Hits the wall
 Collides with its own body
-🛠 Technologies Used
+<br>🛠 Technologies Used
 HTML5 ,CSS3,JavaScript (Vanilla JS) 
 HTML Canvas API – rendering snake and food
-🧠 Game Logic / Model
+<br>🧠 Game Logic / Model
 The game works on a grid-based movement model:
 Snake position stored as an array of blocks.
 Every frame:
